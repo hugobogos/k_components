@@ -1,0 +1,20 @@
+nav{
+    background-color: limegreen;
+}
+header nav ul  {
+    display: flex;
+}
+header nav ul li {
+    margin: 20px;
+    border: 1px black solid;
+    padding: 20px;
+    list-style: none;
+    background-color: white;
+}
+
+header nav ul li:hover{
+    backgro und-color: lightseagreen;
+}
+h1{
+    background-color: yellowgreen;
+}
